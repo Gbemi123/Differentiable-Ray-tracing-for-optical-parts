@@ -19,6 +19,8 @@ component until a clearer image is generated. The result of testing the system o
 gave an average difference of 2.8×10^−3 between the test image and the image that is seen
 when looking through the optimised aperture array component.
 
+## System Design
+
 ![image](https://user-images.githubusercontent.com/92171342/195655354-c562e2cc-b814-419c-a234-add87c0017ed.png)
 
 
